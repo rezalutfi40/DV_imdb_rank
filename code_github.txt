@@ -1,0 +1,6 @@
+echo "# Capstone_Project-Web-Scraping-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/rezalutfi40/Capstone_Project-Web-Scraping-.git
+git push -u origin master
