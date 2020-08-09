@@ -23,10 +23,12 @@ sorting untuk menentukan film dengan rating tertinggi. output dari proses ini ad
 # Data Visualization
 tahap ini yaitu menyajikan datframe kedalam bentuk plot (bar) agar data lebih menarik dan mudah untuk dipahami
 
+<img src='plot1.png'>
+
 ## Conclusion
 pada projek ini, dapat kita ketahui bahwa pada URL: https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31, 7 film 
 dengan rating tertinggi secara urut adalah: Chernobyl, The Boys, The Mandalorian, Gisaengchung, Joker, What We Do in the Shadows dan 
 The Morning Show
 
-<img src='plot1.png'>
+
 
