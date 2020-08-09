@@ -14,6 +14,8 @@ menggunakan modul beutifulsoup4 yang sudah di install pada pip install beautiful
 menarik data pada URL dengan memilih area pada HTML. lalu disajikan dengan menggunakan beautifulsoup. output dari proses ini adalah 
 berupa list yang nantinya akan diproses lebih lanjut oleh pandas
 
+<img src='asset/SC.png'>
+
 # Data Wrangling
 memproses data yang sebelumnya berupa list, menjadi dataframe dengan tipe data yang sesuai dengan menggunakan pandas. dilakukan juga 
 sorting untuk menentukan film dengan rating tertinggi. output dari proses ini adalah data yang bersih dan siap untuk divisualisasikan
