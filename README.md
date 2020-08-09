@@ -26,3 +26,5 @@ pada projek ini, dapat kita ketahui bahwa pada URL: https://www.imdb.com/search/
 dengan rating tertinggi secara urut adalah: Chernobyl, The Boys, The Mandalorian, Gisaengchung, Joker, What We Do in the Shadows dan 
 The Morning Show
 
+<img src='asset/SC.png'>
+
